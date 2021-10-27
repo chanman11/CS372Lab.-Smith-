@@ -1,0 +1,1 @@
+//I think big O is O(1), The algorithm is testing to see is there are unique numbers in the array or not. 
