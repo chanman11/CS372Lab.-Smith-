@@ -1,0 +1,1 @@
+// O(1) is the big-o of the algorithm. The algorithm is telling me what the array will do, which is it tells you whether or not there is a duplicated number. 
